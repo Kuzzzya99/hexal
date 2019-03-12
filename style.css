@@ -1,0 +1,522 @@
+body, html{
+    font-size: 18px;
+}
+
+.button-submit{
+    background: #2eb398;
+    position: relative;
+    top: 23px;
+    height: 37px;
+    width: 90px;
+    left: 491px;
+}
+
+.name{
+    font-size: 2em;
+}
+
+.name .subtitle{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    color: red ;
+}
+
+.subtitle span{
+    width: 50px;
+    margin: 10px;
+    padding: 0 10px;
+    border: 1px solid red;
+    background: url('../asserts/task_3/Layer\41.png') no-repeat;
+    display: inline-block;
+    overflow: hidden;
+    background: #3336;
+}
+
+.subtitle span:hover {
+     width: 60px;
+    background: url('../asserts/task_3/Layer\41.png') no-repeat;    background: url()
+}
+
+.image{
+    width: 200px;
+    position: relative;
+    left: 1px;
+    top: 1px;
+}
+
+input:invalid{
+    border: 2px solid red;
+}
+
+.hexagon
+    {
+        width: 180px;
+        height: 210px;
+        margin: 8px;
+        transform: rotate(120deg);
+        overflow: hidden;
+        visibility: hidden;
+        position: relative;
+        display: inline-block;
+        top: -248px;
+        left: 72px;
+    }
+
+
+
+.social{
+    width: 180px;
+    height: 210px;
+    margin: 5px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    visibility: hidden;
+    position: relative;
+    display: inline-block;
+    left: 114px;
+    top: -138px;
+}
+
+
+.hexagon-l{
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+}
+
+
+
+.social-layer{
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    transform: rotate(-60deg);
+    overflow: hidden;
+}
+
+.social-second-layer{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Image@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-1{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer33@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-2{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer31@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-3{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer34@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-4{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer35@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-5{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer36@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-6{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer44@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-7{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer37@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-8{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer38@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-9{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer39@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-11{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer40@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-12{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer41@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-13{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer43@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.hex-layer-14{
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+    background: #ccc3;
+    transform: rotate(-60deg);
+    overflow: hidden;
+    background-image: url('images/Layer42@1X.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+/***Header******/
+.nav{
+    position: relative;
+    width: 1021px;
+    height: 63px;
+    background-color: #323232;
+    left: 325px;
+    top: -18px;
+    margin-left: -83px;
+}
+.nav a{
+        text-decoration: none; /* Отменяем подчеркивание у ссылки */
+    
+    color:white;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+/*
+.nav{
+    position: relative;
+    left: 527px;
+    top: -82px;
+}*/
+.menu{
+    position: relative;
+    left: 269px;
+    display: -webkit-box;
+    top: 30px;
+}
+.menu li{
+    margin: 0px 14px;
+    font-size: 10px;
+}
+.img-tr{
+    position: relative;
+    left: 9px;
+    top: -19px;    
+}
+
+.menu-4 {
+    position: relative;
+    left: 18px;
+}
+
+.menu-5{
+    right: -15px;
+    position: relative;
+}
+
+header:after{
+
+    height: 0;
+    content: "";
+    border-left: 45px solid transparent;
+    border-right: 46px solid transparent;
+    border-top: 26px solid #323232;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    z-index: 2;
+    top: 62px;
+}
+
+.images-container{
+    position: relative;
+    top: 242px;
+    margin-left: -83px; 
+}
+
+.first-row{
+    position: relative;
+    margin: 9px;
+    top: 53px;
+    left: 359px;
+}
+
+
+.second-row{
+    position: relative;
+    margin: 9px;
+    top: -12px;
+    left: 258px;
+}
+
+.third-row{
+    position: relative;
+    margin: 9px;
+    top: -77px;
+    left: 355px;
+}
+/**End_Header**/
+
+.info{
+    position: relative;
+    width: 1020px;
+    height: 342px;
+    background-color: #2eb398;
+    left: 325px;
+    top: -41px;
+    margin-left: -83px; 
+    z-index: 3;
+}
+
+footer{
+    position: relative;
+    width: 1020px;
+    height: 606px;
+    background-color:#323232;
+    left: 325px;
+    top: -73px;
+    margin-left: -83px; 
+    z-index: 0;
+    
+}
+.in-touch-form{
+    position: relative;
+    left: 120px;
+    top: -130px;    
+}
+.in-touch-form input{
+    display: grid;
+    position: relative;
+    top: 20px;
+    height: 36px;
+    border: 1px solid black;
+    width: 579px;
+    margin: 13px 0px;
+    background-color: #454545;
+}
+.problem {
+    position: relative;
+    height: 100px;
+}
+
+.get-in-touch{
+    position: relative;
+    font-family: MavenProRegular, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 24pt;
+    color: rgba(224, 224, 224, 255);
+    text-align: justify;
+    left: 1px;
+    top: 188px;;
+}
+
+.get-in-touch1{
+    font-family: MavenProRegular, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 16pt;
+    color: rgba(190, 190, 190, 255);
+    text-align: justify;
+    position: relative;
+    top: 152px;
+    left: -1px;
+}
+
+.contacts{
+    font-family: Lato-Bold, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 9pt;
+    color: rgba(190, 190, 190, 255);
+    text-align: justify;
+    position: relative;
+    left: 564px;
+    position: relative;
+    top: -188px;
+    
+}
+.contacts_text{
+    position: relative;
+    top: -250px;
+    left: 588px;
+    font-size: 14px;
+    color: rgba(190, 190, 190, 255);
+}
+
+.get-in-touch2{
+    font-family: Lato-Black, Lato-Regular, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 13pt;
+    color: rgba(224, 224, 224, 255);
+    text-align: justify;
+    position: relative;
+    top: 148px;
+    left: 602px;
+}
+
+.text{
+    font-family: Lato-Regular, AdobeInvisFont, MyriadPro-Regular;
+    color: rgba(215, 252, 245, 255);
+    text-align: justify;
+    position: relative;
+    left: 320px;
+    font-size: 14px;
+    top: 27px;
+    line-height: 22px;
+}
+
+.profession{
+font-family: MavenProRegular, AdobeInvisFont, MyriadPro-Regular;
+font-size: 14pt;
+color: rgba(32, 129, 109, 255);
+text-align: justify;
+position: relative;
+left: 320px;
+top: 34px;
+}
+
+.name{
+    font-family: MavenProRegular, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 23pt;
+    color: rgba(215, 252, 245, 255);
+    text-align: justify;
+    position: relative;
+    left: 316px;
+    top: 60px;
+    }
+
+.go-to{
+    position: relative;
+    left: 715px;
+    top: -173px;
+    margin: 0px;
+    display: -webkit-box;
+
+}
+
+.fon{
+
+    position: relative;
+    top: -37px;
+    height: 36px;
+    width: 1017px;
+    margin: 13px 0px;
+    background-color: #222222;
+    left: -119px;
+}
+
+.end{
+font-family: MavenProRegular, AdobeInvisFont, MyriadPro-Regular;
+font-size: 8.65655pt;
+color: #323232;
+text-align: justify;
+position: relative;
+    top: -78px;
+    left: -83px;
+}
+
+
+a {
+    color: rgba(190, 190, 190, 255);; 
+    background: #323232; 
+    transition: 0.5s linear; 
+    text-decoration: none;
+   }
+   a:hover {
+    color: #2eb398; 
+    background: #323232;
+
